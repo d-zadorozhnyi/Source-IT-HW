@@ -4,6 +4,8 @@
 *.project*
 # Log file
 *.log
+*.com
+*.zadorozhnyi
 
 # BlueJ files
 *.ctxt
