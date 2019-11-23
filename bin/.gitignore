@@ -2,3 +2,5 @@
 /com/
 /hw_2/
 /hw_3/
+*.classpath*
+*/bin
